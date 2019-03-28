@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test name="testdummyproj(failed)">
+    <classes>
+      <class name="com.httpmethods.tradeix.Create_new_employee">
+        <methods>
+          <include name="getData"/>
+          <include name="Create_employee_verify"/>
+        </methods>
+      </class> <!-- com.httpmethods.tradeix.Create_new_employee -->
+    </classes>
+  </test> <!-- testdummyproj(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
